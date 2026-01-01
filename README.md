@@ -1,4 +1,5 @@
-# Stellara
+<img width="992" height="1056" alt="Stellara (1)" src="https://github.com/user-attachments/assets/8ae66195-71ca-460e-aa22-e9b7638cabc8" />
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stellar](https://img.shields.io/badge/Blockchain-Stellar-blue.svg)](https://stellar.org)
